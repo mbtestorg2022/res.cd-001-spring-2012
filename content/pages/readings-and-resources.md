@@ -9,7 +9,7 @@ MIT Resources
 
 *   [Leaders in Science and Engineering: The Women of MIT](http://mit150.mit.edu/symposia/leaders-science-engineering.html): a collection of 10 videos from the MIT150 Symposium, March 28–29, 2011.
 *   Reports and studies on the status of women faculty at MIT
-    *   2011: "A Report on the Status of Women Faculty in the Schools of Science and Engineering at MIT, 2011." ([![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF - 1.6MB](https://facultygovernance.mit.edu/sites/default/files/reports/2011-03_Status_Women_Faculty-SoE_and_SoS.pdf))
+    *   2011: "A Report on the Status of Women Faculty in the Schools of Science and Engineering at MIT, 2011." ([PDF - 1.6MB](https://facultygovernance.mit.edu/sites/default/files/reports/2011-03_Status_Women_Faculty-SoE_and_SoS.pdf))
     *   1999: [Study on the Status of Women Faculty in Science at MIT](http://web.mit.edu/fnl/women/women.html). MIT Faculty Newsletter. Vol XI, no. 4 special edition (March 1999).
         *   [Percentage of women in the MIT School of Science 1985–1994.](http://web.mit.edu/fnl/women/career.htm)
 *   [Women in Nuclear Science and Engineering](http://web.mit.edu/nse/news/spotlights/women.html): profiles of some women students and faculty in MIT's Department of Nuclear Science and Engineering.
